@@ -6,7 +6,7 @@
   <img width='350' src='./images/foto.avif' />
 </div>
 <br>
-  <p align="left">My name is Cristian Morales and I'm a software development apprentice, from Colombia 🇨🇴</p>
+  <h1 align="left">My name is Cristian Morales and I'm a software development apprentice, from Colombia 🇨🇴</h1>
 
 
 ###
