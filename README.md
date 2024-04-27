@@ -2,7 +2,12 @@
 
 ###
 
-<p align="left">My name is Cristian Morales and I'm a software development apprentice, from Colombia 🇨🇴</p>
+<div>
+  <img width='350' src='./images/foto.avif' />
+</div>
+<br>
+  <p align="left">My name is Cristian Morales and I'm a software development apprentice, from Colombia 🇨🇴</p>
+
 
 ###
 
@@ -10,14 +15,13 @@
 
 ###
 
-<p align="left">✨ Creating bugs since: July 2022<br>📚 I'm currently learning: About documents<br>🎯 Goals: Be fullStack<br>🎲 Fun fact: I like to solve errors</p>
+<p align="left">✨ Creating bugs since: July 2022<br>📚 I'm currently learning: Framework  Django<br>🎯 Goals: Be fullStack<br>🎲 Fun fact: I like to solve errors</p>
 
 ###
 
 <h2 align="left">I code with</h2>
 
 ###
-
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
@@ -40,9 +44,23 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" height="40" alt="sqlalchemy logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
+  <img width="12" />
   <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="40" alt="postgresql logo"  />
+  <img width="12" />
   <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="git logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/astro/FF5D01" height="40" alt="astro logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo"  />
 </div>
 
 ###
@@ -56,6 +74,9 @@
   </a>
   <a href="https://www.instagram.com/cristianmorales9826/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/devcristianmorales/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
 </div>
 
