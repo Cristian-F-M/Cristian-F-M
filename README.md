@@ -3,7 +3,7 @@
 ###
 
 <div>
-  <img width='350' src='./images/foto.avif' />
+  <img width='500' src='./images/foto2.avif' />
 </div>
 <br>
   <h1 align="left" style="font-size:25px;">My name is <strong>Cristian Morales</strong> and I'm a software development apprentice, from Colombia 🇨🇴</h1>
